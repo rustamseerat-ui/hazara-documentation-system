@@ -1,1 +1,3 @@
 # NATO Expansion and Russian Response
+## Historical Context
+The post-Cold War security architecture...
